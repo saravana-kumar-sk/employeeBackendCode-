@@ -1,0 +1,765 @@
+{
+  message: 'Error in adding Employee',
+  level: 'error',
+  timestamp: '2024-05-14T09:08:38.933Z'
+}
+{
+  message: 'Error in adding Employee',
+  level: 'error',
+  timestamp: '2024-05-14T09:08:45.842Z'
+}
+{
+  message: 'Error in adding Employee',
+  level: 'error',
+  timestamp: '2024-05-14T09:08:52.070Z'
+}
+{
+  message: 'Error in adding Employee',
+  level: 'error',
+  timestamp: '2024-05-14T09:09:04.341Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-14T09:09:32.704Z'
+}
+{
+  message: 'Delete Successful',
+  level: 'info',
+  timestamp: '2024-05-14T09:09:43.797Z'
+}
+{
+  message: 'Delete Successful',
+  level: 'info',
+  timestamp: '2024-05-14T09:09:46.153Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T09:12:57.483Z'
+}
+{
+  message: 'Error in adding Employee',
+  level: 'error',
+  timestamp: '2024-05-14T09:14:23.068Z'
+}
+{
+  message: 'Error in adding Employee',
+  level: 'error',
+  timestamp: '2024-05-14T09:19:09.806Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T09:36:29.865Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T09:37:46.449Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T09:38:18.734Z'
+}
+{
+  message: 'Error in adding Employee',
+  level: 'error',
+  timestamp: '2024-05-14T09:38:31.731Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T09:40:06.909Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-14T09:40:16.269Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T09:40:33.457Z'
+}
+{
+  message: 'Error in adding Employee',
+  level: 'error',
+  timestamp: '2024-05-14T09:40:43.365Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-14T09:40:59.212Z'
+}
+{
+  message: 'User Not Found',
+  level: 'warn',
+  timestamp: '2024-05-14T09:41:13.590Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T09:41:54.849Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-14T09:42:01.465Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T09:50:36.531Z'
+}
+{
+  message: 'Error in adding Employee',
+  level: 'error',
+  timestamp: '2024-05-14T09:50:50.391Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T09:51:34.093Z'
+}
+{
+  message: 'Error in adding Employee',
+  level: 'error',
+  timestamp: '2024-05-14T09:51:44.042Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T09:52:18.982Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T09:54:22.527Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T09:54:53.881Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-14T09:55:09.709Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-14T09:55:11.266Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-14T09:55:12.269Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T09:55:19.085Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-14T09:55:23.674Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T09:55:31.354Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-14T09:55:35.069Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T10:09:05.090Z'
+}
+{
+  message: 'Error in adding Employee',
+  level: 'error',
+  timestamp: '2024-05-14T10:09:08.377Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T10:11:24.817Z'
+}
+{
+  message: 'Error in adding Employee',
+  level: 'error',
+  timestamp: '2024-05-14T10:11:47.607Z'
+}
+{
+  message: 'Error in adding Employee',
+  level: 'error',
+  timestamp: '2024-05-14T10:14:00.532Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T10:15:49.564Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T10:18:54.702Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T10:19:42.950Z'
+}
+{
+  message: 'Error in adding Employee',
+  level: 'error',
+  timestamp: '2024-05-14T10:20:03.161Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T11:03:48.930Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T11:05:01.005Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T11:06:13.838Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T11:10:40.651Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T11:12:32.301Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T11:13:00.731Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T11:13:37.996Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T11:13:58.102Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T11:14:05.881Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-14T11:14:15.211Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T11:14:29.939Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-14T11:14:43.314Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T11:32:41.097Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T11:34:00.389Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T11:35:01.747Z'
+}
+{
+  message: 'Fetch details of employee null ID',
+  level: 'info',
+  timestamp: '2024-05-14T11:36:00.388Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T11:43:17.943Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T11:43:35.410Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T11:43:50.812Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T11:43:56.769Z'
+}
+{
+  message: 'Fetch details of employee [object Object] ID',
+  level: 'info',
+  timestamp: '2024-05-14T11:44:04.907Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T11:46:29.617Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T11:46:39.418Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T11:46:46.962Z'
+}
+{
+  message: 'Fetch details of employee [object Promise] ID',
+  level: 'info',
+  timestamp: '2024-05-14T11:47:12.839Z'
+}
+{
+  message: 'Fetch details of employee [object Promise] ID',
+  level: 'info',
+  timestamp: '2024-05-14T11:48:29.459Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T11:49:14.022Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T11:49:33.552Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T11:49:39.670Z'
+}
+{
+  message: 'Fetch details of employee [object Promise] ID',
+  level: 'info',
+  timestamp: '2024-05-14T11:49:58.696Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T11:51:03.755Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T11:51:24.175Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T11:51:29.808Z'
+}
+{
+  message: 'Fetch details of employee [object Promise] ID',
+  level: 'info',
+  timestamp: '2024-05-14T11:51:36.005Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T11:52:55.109Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T11:53:09.191Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T11:53:19.171Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T11:53:21.966Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T11:53:29.368Z'
+}
+{
+  message: 'Fetch details of employee [object Promise] ID',
+  level: 'info',
+  timestamp: '2024-05-14T11:53:37.682Z'
+}
+{
+  message: 'Fetch details of employee [object Promise] ID',
+  level: 'info',
+  timestamp: '2024-05-14T11:57:13.752Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T11:57:54.177Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T11:57:59.247Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T11:58:05.056Z'
+}
+{
+  message: 'Fetch details of employee [object Promise] ID',
+  level: 'info',
+  timestamp: '2024-05-14T11:58:17.132Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T11:59:45.687Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T11:59:52.397Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T11:59:59.196Z'
+}
+{
+  message: 'Fetch details of employee [object Promise] ID',
+  level: 'info',
+  timestamp: '2024-05-14T12:00:03.939Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T12:04:15.476Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T12:05:30.271Z'
+}
+{
+  message: 'Fetch details of employee [object Object] ID',
+  level: 'info',
+  timestamp: '2024-05-14T12:05:39.609Z'
+}
+{
+  message: 'Delete Successful',
+  level: 'info',
+  timestamp: '2024-05-14T12:05:57.617Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T12:06:09.226Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T12:06:15.301Z'
+}
+{
+  message: 'Fetch details of employee [object Object] ID',
+  level: 'info',
+  timestamp: '2024-05-14T12:06:24.874Z'
+}
+{
+  message: 'Fetch details of employee null ID',
+  level: 'info',
+  timestamp: '2024-05-14T12:06:50.575Z'
+}
+{
+  message: 'Fetch details of employee [object Object] ID',
+  level: 'info',
+  timestamp: '2024-05-14T12:06:54.227Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T15:52:11.919Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T15:52:39.165Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T15:52:46.786Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-14T15:53:09.710Z'
+}
+{
+  message: 'Fetch details of employee [object Object] ID',
+  level: 'info',
+  timestamp: '2024-05-14T15:53:29.536Z'
+}
+{
+  message: 'Updated User with id 2',
+  level: 'info',
+  timestamp: '2024-05-14T15:53:57.062Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-14T15:54:04.705Z'
+}
+{
+  message: 'Delete Successful',
+  level: 'info',
+  timestamp: '2024-05-14T15:54:12.070Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-14T15:54:25.378Z'
+}
+{
+  message: 'User with id 2 not found.',
+  level: 'warn',
+  timestamp: '2024-05-14T15:55:00.821Z'
+}
+{
+  message: 'Updated User with id 1',
+  level: 'info',
+  timestamp: '2024-05-14T15:55:09.982Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T15:56:26.403Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T15:57:57.967Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T15:58:19.182Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-14T15:58:28.193Z'
+}
+{
+  message: 'Updated User with id 1',
+  level: 'info',
+  timestamp: '2024-05-14T15:58:41.377Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-14T15:58:46.733Z'
+}
+{
+  message: 'Updated User with id 1',
+  level: 'info',
+  timestamp: '2024-05-14T15:58:59.546Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-14T15:59:03.767Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-14T15:59:33.145Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-14T16:07:06.533Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-14T16:07:15.599Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-14T16:07:21.278Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-14T16:07:33.476Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-15T03:13:03.028Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-15T03:13:28.159Z'
+}
+{
+  message: 'Employee Details',
+  level: 'info',
+  timestamp: '2024-05-15T03:13:47.136Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-15T03:14:28.698Z'
+}
+{
+  message: 'Failed to update user: undefined',
+  level: 'error',
+  timestamp: '2024-05-15T03:14:47.548Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-15T03:36:19.267Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-15T03:36:51.207Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-15T03:40:38.456Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-15T03:41:08.813Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-15T03:41:46.309Z'
+}
+{
+  Name: 'Saravana Kumar',
+  Email: 'ssaravana2001@gmail.com',
+  contactNumber: '08925332448',
+  Address: 'no.37,kothangudi thoppu,20 point nagar,',
+  Salary: 1234,
+  level: 'info',
+  message: 'Employee obj:',
+  timestamp: '2024-05-15T03:42:00.502Z'
+}
+{
+  message: 'Employee added',
+  level: 'info',
+  timestamp: '2024-05-15T03:42:00.526Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-15T03:42:10.238Z'
+}
+{
+  message: 'Updated Employee with id 1',
+  level: 'info',
+  timestamp: '2024-05-15T03:42:25.605Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-15T03:42:29.817Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-15T03:44:57.264Z'
+}
+{
+  message: 'Server running on :http://localhost:4000',
+  level: 'info',
+  timestamp: '2024-05-15T03:57:03.811Z'
+}
+{
+  Name: 'renu',
+  Email: 'ssaravana2001@gmail.com',
+  contactNumber: '08925332448',
+  Address: 'no.37,kothangudi thoppu,20 point nagar,',
+  Salary: 1234,
+  level: 'info',
+  message: 'Employee obj:',
+  timestamp: '2024-05-15T03:57:21.983Z'
+}
+{
+  message: 'Employee added',
+  level: 'info',
+  timestamp: '2024-05-15T03:57:22.003Z'
+}
+{
+  Name: 'renuka',
+  Email: 'ssaravana2001@gmail.com',
+  contactNumber: '08925332448',
+  Address: 'no.37,kothangudi thoppu,20 point nagar,',
+  Salary: 1234,
+  level: 'info',
+  message: 'Employee obj:',
+  timestamp: '2024-05-15T03:57:26.819Z'
+}
+{
+  message: 'Employee added',
+  level: 'info',
+  timestamp: '2024-05-15T03:57:26.827Z'
+}
+{
+  message: 'Retrieved all user data.',
+  level: 'info',
+  timestamp: '2024-05-15T03:57:32.869Z'
+}
+{
+  message: 'Fetch details of employee 2',
+  level: 'info',
+  timestamp: '2024-05-15T03:58:02.374Z'
+}
